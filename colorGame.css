@@ -72,3 +72,11 @@ button:hover {
 	color: white;
 	background: steelblue;
 }
+
+#text-style {
+          background: linear-gradient(92.05deg, #BCA1F7 12.09%, #E577B4 42.58%, #FF7170 84.96%);
+          -webkit-background-clip: text;
+          background-clip: text;
+          -webkit-text-fill-color: transparent;
+		  -webkit-box-decoration-break: clone;" data-ga-click="Dashboard, click, GitHub Universe 2020"
+}
