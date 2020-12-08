@@ -31,6 +31,15 @@ h1 {
 	padding-bottom: 20px 0;
 }
 
+h5 {
+	text-align: center;
+	color: white;
+}
+
+h2{
+	text-align: right
+}
+
 #colourDisplay {
 	font-size: 200%;
 }
